@@ -32,8 +32,8 @@ jobs:
 
             - name: Commit changes
               run: |
-                  git config --local user.email "seno@siotics.org"
-                  git config --local user.name "Cydnirn"
+                  git config --local user.email "razanmaysel08@gmail.com"
+                  git config --local user.name "Rzn009"
                   git add -A
                   git commit -m "feat: Add more seeds"
 
